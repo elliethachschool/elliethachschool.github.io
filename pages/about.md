@@ -7,19 +7,19 @@ weight: 3
 
 # **About Me**
 
-Hi, I’m **Leanne Cheng**! :wave:<br>
+Hello, I'm Ellie Thach!
 
-I’m a **junior studying Computer Science at the University of Michigan**, focused on building scalable, user-centered software. My work includes interactive dashboards for language data, mobile tools for health tracking, and platforms that improve access to underrepresented resources.<br>
+I'm a junior studying Computer Science with a Cybersecurity certificate at the University of Kansas who’s interested in building secure, reliable systems. I enjoy problem-solving and learning how software and security work together. I’m currently focused on gaining hands-on experience and continuing to grow my skills through real-world projects.
 
-I’m currently an **Instructional Aide for EECS 183** and serve on the **professional committee for Girls in Electrical Engineering and Computer Science (GEECS)**. Outside of tech, I **coach figure skating** and explore **creative direction and makeup** as forms of visual storytelling.<br>
+I currently work for the **Center of Public Partnerships & Research** as an **IT Student Hourly**, and am involved in clubs such as **SASE** (Society of Asian Scientists and Engineers) and **WIC** (Women in Computing). Outside of tech, I am the **Treasurer** for **AASU** (Asian American Student Union) and am apart of **Sigma Psi Zeta**.
 
-**Languages:**  
-C++, Python, TypeScript, Java, C, SQL
+## **Languages:** 
+Python, C++, C, Java, SQL 
 
-**Frameworks & Libraries:**  
-React, React Native, Django, Chart.js, Tailwind CSS, Pandas, Expo
+## **Tools & Frameworks:**  
+Git, Figma, Visual Studio
 
-**Tools & Other:**  
-Git, Vite, HTML/CSS, JSON, Figma
+## **Web & Front End:**  
+HTML/CSS
 
-You can reach me at [**leannechenglc@gmail.com**](mailto:leannechenglc@gmail.com).
+If you have any inquiries, you can reach me at [**elliethachschool@gmail.com**](mailto:elliethachschool@gmail.com).

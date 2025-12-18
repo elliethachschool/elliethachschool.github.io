@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : Ellie Thach
 description         : >-
-                      Computer Science Major at KU | IT Student Hourly at CPPR
+                      Computer Science Major at KU
+                      IT Student Hourly at CPPR
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : elliethachschool/elliethachschool.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -20,10 +21,9 @@ nav_exclude:                                            # The following paths ar
   - pages/index.md
 
 
-
 ### Author Info ###
 author:
-  name              : Leanne Cheng
+  name              : Ellie Thach
   image             : assets/photos/headshot_photo.png
 # behance           : your_username
 # dribbble          : your_username
@@ -33,7 +33,7 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : elliethach
+  linkedin          : ellie-thach-7b396727a
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
